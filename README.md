@@ -14,6 +14,7 @@ NOTE: To run this demo, you’ll need to [sign up and generate a PIN](https://hy
   - Cores: 1
   - RAM: 16 GB
   - GPU Type: Any
+    
 **3 - Start the server.** Click on Start Server and wait for your server to initialize.
 **4 - Set your storage (optional).** Once in JupyterLab, use the File Browser to navigate to a storage folder for your work.
 **5 - Select workspace.** In the Widget, select this workspace from the list of workspaces.
